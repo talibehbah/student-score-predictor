@@ -5,7 +5,7 @@ from datetime import datetime
 # Log file name
 LOG_FILE = f"{datetime.now().strftime('%m_%d_%Y_%H_%M_%S')}.log"
 
-# Stable base directory (not dependent on where script is run)
+# Stable base directory
 curr_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Logs directory
