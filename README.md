@@ -18,3 +18,7 @@ An end-to-end machine learning project that predicts students' writing scores ba
 
 
 Try the live app here: https://student-score-predictor-1nuw.onrender.com
+
+App GUI:
+<img src="https://github.com/user-attachments/assets/6faa7a59-1748-4c24-ac4b-250a6afde259" width="500" alt="Docker build output">
+
